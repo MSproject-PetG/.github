@@ -13,9 +13,7 @@
 
 ## Architecture
 
-> 리포지토리에 이미지 추가 후 경로만 맞춰주세요.
-
-![PetG Architecture](../images/architecture.jpg)
+![PetG Architecture](/images/PetG%20서비스%20아키텍쳐.jpg)
 
 ---
 
